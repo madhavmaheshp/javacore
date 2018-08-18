@@ -16,6 +16,7 @@ public class A1 {
 		A1 a1=new A1();
 		a1.fun1(6);
 		B b1=new B();
+		a1.fun2(b1);
 		System.out.println(b1.x);
 	
 	}
