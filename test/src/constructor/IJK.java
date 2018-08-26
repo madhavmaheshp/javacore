@@ -5,7 +5,7 @@ public class IJK {
 	int i,j,k;
 	IJK(int x)
 	{
-		i=x;
+		i=x; 
 		j=x*x;
 		k=i+j;
 	}
