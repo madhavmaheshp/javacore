@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public final class A1 {
 

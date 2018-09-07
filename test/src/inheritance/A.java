@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public class A
 {

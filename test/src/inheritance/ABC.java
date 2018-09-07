@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public  class ABC extends XYZ{
 

@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public class Super1 {
 

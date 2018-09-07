@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public class MNO extends ABC {
 	void fun2()

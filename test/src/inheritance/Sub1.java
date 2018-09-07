@@ -1,4 +1,4 @@
-package interfaces;
+package inheritance;
 
 public class Sub1 extends Super1{
 
